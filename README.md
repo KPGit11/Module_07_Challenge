@@ -13,10 +13,10 @@ A command-line application that generates a markdown readme file after asking th
 * [Questions](#questions)
 
 ## Installation
-In your terminal, type `Node index.js` and press Enter.
+In your terminal, run `npm install` to install the required dependencies, then run `Node index.js` to launch the application.
 
 ## Usage
-Run the application and answer all of the questions asked by the inquierer. The application will end with a generated Readme file based on the answers given
+Run the application and answer all of the questions asked by the inquierer. The application will end with a generated Readme file based on the answers given by the user.
 
 ## License
     
