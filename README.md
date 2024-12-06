@@ -18,16 +18,6 @@ In your terminal, run `npm install` to install the required dependencies, then r
 ## Usage
 Run the application and answer all of the questions asked by the inquierer. The application will end with a generated Readme file based on the answers given by the user.
 
-## License
-    
-This project is licensed under the MIT license. For more information, see https://opensource.org/licenses/MIT
-
-## Contributing
-Simply join the Github repository and make commits as desired.
-
-## Tests
-a
-
 ## Questions
 For additional questions, you can reach me through:
 
