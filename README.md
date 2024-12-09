@@ -1,22 +1,26 @@
 # Readme Generator
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 
 ## Description
-A command-line application that generates a markdown readme file after asking the user several questions.
+An inquirer command-line application that will generate a readme file based on user input
 
 ## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
 * [Contributing](#contributing)
-* [Tests](#tests)
 * [Questions](#questions)
 
 ## Installation
-In your terminal, run `npm install` to install the required dependencies, then run `Node index.js` to launch the application.
+in your terminal, type npm install, then type node index.js
 
 ## Usage
-Run the application and answer all of the questions asked by the inquierer. The application will end with a generated Readme file based on the answers given by the user.
+You answer all of the questions asked by the command-line inquirer
+
+
+
+## Contributing
+Join the Github repository
 
 ## Questions
 For additional questions, you can reach me through:
